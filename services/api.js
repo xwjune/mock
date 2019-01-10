@@ -10,7 +10,7 @@ module.exports = {
       data: {
         id: '@guid',
         date: '@now',
-      }
+      },
     }));
   },
 };
